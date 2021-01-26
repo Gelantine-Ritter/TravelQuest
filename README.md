@@ -1,4 +1,4 @@
-[![The MIT License](https://github.com/Gelantine-Ritter/TravelQuest/blob/master/LICENSE.md)]
+[![The MIT License](https://img.shields.io/badge/license-MIT-yellowgreen.svg?style=flat-square)](https://github.com/Gelantine-Ritter/TravelQuest/blob/master/LICENSE.md)
 
 # TravelQuest
 
