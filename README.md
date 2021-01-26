@@ -29,4 +29,4 @@ TravelQuest is an app to find out which destination suits you best.
 
 ## License
 
-Distributed under the MIT License. See [`LICENSE.md`](https://github.com/Gelantine-Ritter/aktuelle-webtechnologien-project/blob/master/LICENSE.md) for more information.
+Distributed under the MIT License. See [`LICENSE.md`](https://github.com/Gelantine-Ritter/TravelQuest/blob/master/LICENSE.md) for more information.
